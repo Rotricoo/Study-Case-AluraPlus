@@ -1,9 +1,9 @@
 # Alura Plus - Assinatura de Cursos de Tecnologia e Idiomas
 
-![Imagem de Capa do Projeto]<src="Assets/print-first-screen.png"
+![Tela inicial do projeto](Assets/tela-inicial.png)
 
 ## Badges
-![Status do Projeto](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Status do Projeto](https://img.shields.io/badge/status-em%20desenvolvimento-green)
 
 ## Índice
 - [Sobre o Projeto](#sobre-o-projeto)
